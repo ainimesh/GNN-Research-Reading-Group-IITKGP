@@ -1,2 +1,2 @@
-# GNN-Research-Content
-This Repository contains the latest research papers released on GNN.
+# Graph Neural Network Research Reading Group IIT Kharagpur
+This Repository contains the material presented in Reading Group at IIT Kharagpur.
